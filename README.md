@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/tridha21/leetcode-every-day/tree/master/0151-reverse-words-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/tridha21/leetcode-every-day/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
