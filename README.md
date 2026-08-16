@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/tridha21/leetcode-every-day/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
