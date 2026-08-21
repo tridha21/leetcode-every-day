@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tridha21/leetcode-every-day/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/tridha21/leetcode-every-day/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tridha21/leetcode-every-day/tree/master/0844-backspace-string-compare) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
@@ -52,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/tridha21/leetcode-every-day/tree/master/0844-backspace-string-compare) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
