@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/tridha21/leetcode-every-day/tree/master/0172-factorial-trailing-zeroes) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tridha21/leetcode-every-day/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
