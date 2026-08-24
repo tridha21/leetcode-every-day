@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tridha21/leetcode-every-day/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/tridha21/leetcode-every-day/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/tridha21/leetcode-every-day/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tridha21/leetcode-every-day/tree/master/0844-backspace-string-compare) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -74,4 +76,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tridha21/leetcode-every-day/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
