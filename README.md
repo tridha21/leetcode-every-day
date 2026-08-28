@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tridha21/leetcode-every-day/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0219-contains-duplicate-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
