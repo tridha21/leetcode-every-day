@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tridha21/leetcode-every-day/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/tridha21/leetcode-every-day/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
