@@ -1,9 +1,7 @@
 class Solution {
     public boolean canMakeArithmeticProgression(int[] arr) {
         int i,d1,d2,n;
-
         n=arr.length;
-
         Arrays.sort(arr);
         d1=arr[1]-arr[0];
 
