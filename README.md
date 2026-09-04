@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/tridha21/leetcode-every-day/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/tridha21/leetcode-every-day/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/tridha21/leetcode-every-day/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/tridha21/leetcode-every-day/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tridha21/leetcode-every-day/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tridha21/leetcode-every-day/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/tridha21/leetcode-every-day/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/tridha21/leetcode-every-day/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/tridha21/leetcode-every-day/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/tridha21/leetcode-every-day/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/tridha21/leetcode-every-day/tree/master/0596-classes-with-at-least-5-students) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tridha21/leetcode-every-day/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tridha21/leetcode-every-day/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
