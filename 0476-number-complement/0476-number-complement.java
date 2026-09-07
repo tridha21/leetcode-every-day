@@ -1,7 +1,8 @@
 class Solution {
     public int findComplement(int num) {
-        int mask = 0;
-        int temp = num;
+        int mask,temp;
+        mask = 0;
+        temp = num;
 
         while (temp > 0) {
             mask = (mask << 1) | 1;
