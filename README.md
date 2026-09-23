@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/tridha21/leetcode-every-day/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/tridha21/leetcode-every-day/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/tridha21/leetcode-every-day/tree/master/0704-binary-search) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/tridha21/leetcode-every-day/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/tridha21/leetcode-every-day/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/tridha21/leetcode-every-day/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/tridha21/leetcode-every-day/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tridha21/leetcode-every-day/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tridha21/leetcode-every-day/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tridha21/leetcode-every-day/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/tridha21/leetcode-every-day/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tridha21/leetcode-every-day/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Quicksort
@@ -115,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tridha21/leetcode-every-day/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/tridha21/leetcode-every-day/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tridha21/leetcode-every-day/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/tridha21/leetcode-every-day/tree/master/0476-number-complement) |
 ## Pigeonhole Principle
