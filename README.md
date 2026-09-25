@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/tridha21/leetcode-every-day/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/tridha21/leetcode-every-day/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0766-toeplitz-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridha21/leetcode-every-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0054-spiral-matrix) |
+| [0766-toeplitz-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0766-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
