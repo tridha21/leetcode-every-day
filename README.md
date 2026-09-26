@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/tridha21/leetcode-every-day/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tridha21/leetcode-every-day/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tridha21/leetcode-every-day/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/tridha21/leetcode-every-day/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0766-toeplitz-matrix) |
+| [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridha21/leetcode-every-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tridha21/leetcode-every-day/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tridha21/leetcode-every-day/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Quicksort
 |  |
