@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tridha21/leetcode-every-day/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tridha21/leetcode-every-day/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
+| [2396-strictly-palindromic-number](https://github.com/tridha21/leetcode-every-day/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/tridha21/leetcode-every-day/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tridha21/leetcode-every-day/tree/master/0509-fibonacci-number) |
+| [2396-strictly-palindromic-number](https://github.com/tridha21/leetcode-every-day/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridha21/leetcode-every-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tridha21/leetcode-every-day/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/tridha21/leetcode-every-day/tree/master/3870-count-commas-in-range) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/tridha21/leetcode-every-day/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/tridha21/leetcode-every-day/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
