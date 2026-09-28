@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tridha21/leetcode-every-day/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tridha21/leetcode-every-day/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridha21/leetcode-every-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/tridha21/leetcode-every-day/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tridha21/leetcode-every-day/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tridha21/leetcode-every-day/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/tridha21/leetcode-every-day/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridha21/leetcode-every-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tridha21/leetcode-every-day/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
