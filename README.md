@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tridha21/leetcode-every-day/tree/master/0013-roman-to-integer) |
+| [0065-valid-number](https://github.com/tridha21/leetcode-every-day/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/tridha21/leetcode-every-day/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/tridha21/leetcode-every-day/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/tridha21/leetcode-every-day/tree/master/0392-is-subsequence) |
