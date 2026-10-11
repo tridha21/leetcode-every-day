@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tridha21/leetcode-every-day/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tridha21/leetcode-every-day/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridha21/leetcode-every-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tridha21/leetcode-every-day/tree/master/3875-construct-uniform-parity-array-i) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/tridha21/leetcode-every-day/tree/master/2396-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tridha21/leetcode-every-day/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
