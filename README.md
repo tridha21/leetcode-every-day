@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tridha21/leetcode-every-day/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tridha21/leetcode-every-day/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tridha21/leetcode-every-day/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tridha21/leetcode-every-day/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tridha21/leetcode-every-day/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tridha21/leetcode-every-day/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tridha21/leetcode-every-day/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/tridha21/leetcode-every-day/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tridha21/leetcode-every-day/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tridha21/leetcode-every-day/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
