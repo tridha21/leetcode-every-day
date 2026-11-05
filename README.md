@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tridha21/leetcode-every-day/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tridha21/leetcode-every-day/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridha21/leetcode-every-day/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/tridha21/leetcode-every-day/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/tridha21/leetcode-every-day/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tridha21/leetcode-every-day/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridha21/leetcode-every-day/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tridha21/leetcode-every-day/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tridha21/leetcode-every-day/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tridha21/leetcode-every-day/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tridha21/leetcode-every-day/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/tridha21/leetcode-every-day/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridha21/leetcode-every-day/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tridha21/leetcode-every-day/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tridha21/leetcode-every-day/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tridha21/leetcode-every-day/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/tridha21/leetcode-every-day/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tridha21/leetcode-every-day/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tridha21/leetcode-every-day/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tridha21/leetcode-every-day/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
